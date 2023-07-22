@@ -29,9 +29,7 @@
       <b-col>
         <Card />
       </b-col>
-      <b-col>
-        <Card />
-      </b-col>ву
+      
     </b-row>
 
     <b-row class="mb-5">
