@@ -1,23 +1,20 @@
 // Custom Bootstrap variable overrides go first
 $grid-breakpoints: (
   xs: 0,
-  sm: 480px,
+  sm: 300px,
   md: 640px,
   lg: 880px,
-  xl: 1400px
+  xl: 1430px
 );
 
 $container-max-widths: (
-  xs: 0,
+  xs: 440,
   sm: 540px,
   md: 720px,
   lg: 960px,
-  xl: 1200px,
+  xl: 1230px,
 );
 
-.container {
-  max-width: 1400px;
-}
 
 $enable-rounded: false;
 
